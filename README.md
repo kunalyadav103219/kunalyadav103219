@@ -86,6 +86,5 @@
 
 If you like my work, consider buying me a coffee:
 
-<a href="https://www.buymeacoffee.com/kunalkumar">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kunalrudra&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
-</a>
+🚀 Try My App
+<p> <a href="https://play.google.com/store/apps/details?id=com.rudrait.gemini&pcampaignid=web_share" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="80" alt="Get it on Google Play" /> </a> </p>
