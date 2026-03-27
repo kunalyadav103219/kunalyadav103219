@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">Application Developer from India 🇮🇳</h3>
-
+<div align="center">
+  <img  src="asist/snake.svg"  />
+</div>
 - 🔭 I’m currently working on **mobile app development projects**
 - 🌱 I’m currently exploring **Jetpack Compose, Flutter, Dart and Speech ML Integration**
 - 💬 Ask me about **Kotlin, Android Jetpack, MVVM, Room,Java, Coroutines,Dagger,Hilt,Flutter,Dart, swift and AI integration**
